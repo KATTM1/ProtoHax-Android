@@ -9,8 +9,8 @@ dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         mavenLocal()
-        maven { url = 'https://maven.aliyun.com/repository/public' }
-        maven { url = 'https://repo.hackpixel.net/maven_repo/' }
+        maven { url = 'https://raw.githubusercontent.com/KATTM1/maven_repo/main/maven_repo/' }
+        maven { url = 'https://raw.githubusercontent.com/KATTM1/maven_repo/main/maven_repo/' }
         maven { url = 'https://raw.githubusercontent.com/KATTM1/maven_repo/main/maven_repo/'}
         google()
         mavenCentral()
